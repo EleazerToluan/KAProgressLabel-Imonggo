@@ -77,8 +77,8 @@
     
     // Style
     self.textAlignment = NSTextAlignmentCenter;
-    self.trackWidth             = 5.0;
-    self.progressWidth          = 5.0;
+    self.trackWidth             = 1.0;
+    self.progressWidth          = 1.0;
     self.roundedCornersWidth    = 0.0;
     self.fillColor              = [UIColor clearColor];
     self.trackColor             = [UIColor lightGrayColor];

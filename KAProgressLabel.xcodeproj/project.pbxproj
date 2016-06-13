@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		05A9A252181B7ADF00CE7A38 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 05A9A251181B7ADF00CE7A38 /* Main.storyboard */; };
+		637270BB1D0EFD8700803459 /* KAProgressLabel.podspec in Resources */ = {isa = PBXBuildFile; fileRef = 637270BA1D0EFD8700803459 /* KAProgressLabel.podspec */; };
 		82B0664F1766018C00D6F53E /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = FA977F1E17651A7D0046C52E /* AppDelegate.m */; };
 		82B066501766018E00D6F53E /* Demo1.m in Sources */ = {isa = PBXBuildFile; fileRef = FA977F2717651A7D0046C52E /* Demo1.m */; };
 		82B066511766018F00D6F53E /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = FA977F1A17651A7D0046C52E /* main.m */; };
@@ -26,6 +27,7 @@
 
 /* Begin PBXFileReference section */
 		05A9A251181B7ADF00CE7A38 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
+		637270BA1D0EFD8700803459 /* KAProgressLabel.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = KAProgressLabel.podspec; sourceTree = SOURCE_ROOT; };
 		82B066441765DFBF00D6F53E /* TPPropertyAnimation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TPPropertyAnimation.h; sourceTree = "<group>"; };
 		82B066451765DFBF00D6F53E /* TPPropertyAnimation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TPPropertyAnimation.m; sourceTree = "<group>"; };
 		FA977F0B17651A7D0046C52E /* KAProgressLabel.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = KAProgressLabel.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -97,6 +99,7 @@
 		FA977F1417651A7D0046C52E /* KAProgressLabel */ = {
 			isa = PBXGroup;
 			children = (
+				637270BA1D0EFD8700803459 /* KAProgressLabel.podspec */,
 				82B066441765DFBF00D6F53E /* TPPropertyAnimation.h */,
 				82B066451765DFBF00D6F53E /* TPPropertyAnimation.m */,
 				FA977F3217651AAA0046C52E /* KAProgressLabel.h */,
@@ -186,6 +189,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				637270BB1D0EFD8700803459 /* KAProgressLabel.podspec in Resources */,
 				FA977F1917651A7D0046C52E /* InfoPlist.strings in Resources */,
 				FA977F2117651A7D0046C52E /* Default.png in Resources */,
 				FA977F2317651A7D0046C52E /* Default@2x.png in Resources */,
